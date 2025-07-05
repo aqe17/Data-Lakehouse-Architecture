@@ -1,0 +1,9 @@
+# Do not upload secrets or system config
+.bashrc
+.env
+.secrets/
+*.pem
+*.key
+*.log
+.vscode/
+__pycache__/
